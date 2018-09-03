@@ -1,0 +1,1 @@
+json.partial! @appliance, partial: 'appliance', as: :appliance

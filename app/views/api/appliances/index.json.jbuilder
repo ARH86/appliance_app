@@ -1,0 +1,1 @@
+json.array! @appliances, partial: 'appliance', as: :appliance
